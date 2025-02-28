@@ -1,0 +1,51 @@
+An Interactive Dashboard showing the Loan Health of a Company
+
+Background:
+The Treasury department at a Fintech company had requested we Develop a dashboard to help the Loan team make the most of their loan health data and have quick and user-friendly access to the insights they need.
+They identified four key business questions that the team regularly needs answers to when discussing loan health.
+These questions are:
+•	What is the total outstanding amount of all loans?
+•	What is the percentage of outstanding loans in each status category?
+•	What states have the highest number of outstanding loans?
+•	What customers own their homes outright and have current loans?
+
+Data:
+The Company provided a dataset that contained two Tables; Customer Table and Loan Table; each table containing Dimension (columns) and Measure (calculated columns)
+
+Customer Table
+
+Dimension
+•	Home Ownership
+•	Customer Id
+•	Income
+•	State
+Measure 
+•	Average Income
+
+Loan Table
+
+Dimension
+•	Loan Status
+•	Loan Amount
+•	Interest rate
+Measure
+•	Count of outstanding loan
+•	Outstanding Loans Amount
+
+Tools Used:
+For this project; I used LOOKER to create a dashboard containing 4 visualization; a single value visualization, a Pie chart, a Bar Chart, and a Table visualization.
+
+Process:
+•	First; using Looker I created an empty dashboard; and then started creating and adding visualizations to it.
+•	Second; I built and added a “single value visualization” that shows the total amount of all outstanding loans, and added a threshold indicator to the visualization. I used the Outstanding Loans Amount data for this visualization.
+•	Third; I built and added a “Pie chart visualization” that displays the total amount of all outstanding loans by status. I used the Outstanding Loans Amount and Loan status data.
+•	Fourth; I built and added a “Bar Chart visualization” displaying the top 10 states with the highest total count of outstanding loans. I used the Count of outstanding loans and State data
+•	Fifth; I built and added a “table visualization” that displays top 10 customers by highest income, state, and Interest rate. The table should also display on customers that “own” their home outright, and have “Current” loans. I used the Customer id data, Income data (descending order), state data, and interest rate data. I filtered Home ownership and selected (own), and we also filtered Status dimension and selected (current)
+•	Finally; I customized dashboard by enabling cross-filtering and setting the refresh rate for each visualization.
+
+Insight:
+•	It was discovered that the current outstanding amount of 3,080,533,000 is higher than the set threshold of 3,000,000,000; hence the red color indication.
+•	It was discovered that the “current loans” occupied 87.89% of the total outstanding loans of the company.
+•	It was also discovered that “CA” state has the highest number of outstanding loans. This will help to inform future loan advancement to the state.
+•	We were also able sieve out customers who own their homes outright and have current loans? This information will help ascertain customers with higher financial standing and  capacity to handle loans 
+
