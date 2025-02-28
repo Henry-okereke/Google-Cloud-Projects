@@ -11,10 +11,10 @@ Here's an overview of the near real life projects I worked on during my training
 In this project, i used LOOKER to built a Loan Insight intaractive dashboard containing 4 visualizations. I also applied cross filtering and automatic refreshing attributes to the visualizations. 
 
 [**Analysis of Telemetry Data**]
-![](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%201%20-%20Analyzing%20Telemetry%20Data/Tableau%20Public%20-%20Telemetry%20Data%20Dashboard%202_27_2025%203_46_46%20PM.png)
+![](https://github.com/Henry-okereke/Google-Cloud-Projects/blob/main/Project%201%20Loan-Dashboard/LOAN%20HEALTH%20DASHBOARD.png)
 
 
-### To check out indept details of the above project one; pls check out the [**DESCRIPTION FILE HERE**](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%201%20-%20Analyzing%20Telemetry%20Data/Task-Description)
+### To check out indept details of the above project one; pls check out the [**DESCRIPTION FILE HERE**](https://github.com/Henry-okereke/Google-Cloud-Projects/blob/main/Project%201%20Loan-Dashboard/Project%20Description)
 
 
 ## Task 2
@@ -36,17 +36,5 @@ This repository is licensed under the GNU General Public License v3.0. You are f
 
 Feel free to explore the projects in this repository. If you have any questions or would like to reach out, please don't hesitate to contact me. 
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-___
 
 
