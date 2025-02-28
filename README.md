@@ -3,20 +3,16 @@ Welcome to this repository showing my Google Cloud Projects. In these projects i
 
 The cloud computing and data analytical skills i gained from these projects have enhanced my capacity to work with big data using cutting edge tools in the cloud environment.  
 
-## Task List
+## Task/Project List
 
-Here's an overview of the tasks or projects I worked on during my internship:
+Here's an overview of the near real life projects I worked on during my training with Google Clout Data Analytics Certification:
 
-## Task 1
-The first project is the Analysis of a Telemetry Data; where i used Tableau to analyze the data and built a dashboard of two charts; using the first chat as a filter to the second chat.  
+## Project 1
+In this project, i used LOOKER to built a Loan Insight intaractive dashboard containing 4 visualizations. I also applied cross filtering and automatic refreshing attributes to the visualizations. 
 
 [**Analysis of Telemetry Data**]
 ![](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%201%20-%20Analyzing%20Telemetry%20Data/Tableau%20Public%20-%20Telemetry%20Data%20Dashboard%202_27_2025%203_46_46%20PM.png)
 
-The dashboard view below shows the filter in play.
-
-[**Filtered Analysis of Telemetry Data**]
-![](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%201%20-%20Analyzing%20Telemetry%20Data/Tableau%20Public%20-%20Telemetry%20Data%20Dashboard%202_27_2025%203_47_13%20PM.png)
 
 ### To check out indept details of the above project one; pls check out the [**DESCRIPTION FILE HERE**](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%201%20-%20Analyzing%20Telemetry%20Data/Task-Description)
 
