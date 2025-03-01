@@ -17,13 +17,6 @@ In this project, i used LOOKER to built a Loan Insight intaractive dashboard con
 ### To check out indept details of the above project one; pls check out the [**DESCRIPTION FILE HERE**](https://github.com/Henry-okereke/Google-Cloud-Projects/blob/main/Project%201%20Loan-Dashboard/Project%20Description)
 
 
-## Task 2
-The second project was the completion of a forensic analysis; where i completed the forensic analysis using Excel Sheet. Objective of the task was to ascertain the level of gender inequality in terms of salary, in Daikibo Industrials. The insight gotten showed certain level of highly discriminative, unfair, and fair treatments scareted accross different industrials. 
-
-[**Forensic Analysis using Excel**]
-![](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%202%20Forensic%20Analysis/Task%202%20forensic%20screenshot.png)
-
-### To check out indept details of project two; pls check out the [**DESCRIPTION FILE HERE**](https://github.com/Henry-okereke/Deloitte-Sim-Projects/blob/main/Task%202%20Forensic%20Analysis/Task-Description)
 
 
 ---
